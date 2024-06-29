@@ -4,7 +4,7 @@
 //
 //  Created by serhat on 27.06.2024.
 //
-
+/// Character List 
 import UIKit
 
 class CharacterVC: UIViewController {
